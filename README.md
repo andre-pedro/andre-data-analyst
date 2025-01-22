@@ -1,5 +1,5 @@
 # andre-data-analyst
-#About me
+# About me
 
 I am an aspiring Data Analyst, determined to build my career in this fascinating and challenging field. My journey began as a teacher, where I acquired strong skills in communication, organization, and the ability to translate complex concepts into simple and accessible ideas – a quality I believe is essential for a data analyst. Later, I worked as a Web Designer, where I developed technical and creative skills by planning and implementing visual and functional solutions.
 
